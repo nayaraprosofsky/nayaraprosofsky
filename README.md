@@ -2,7 +2,7 @@
  Meu nome é Nayara
 
 - Estou estudando na [alura](https://www.alura.com.br)
-- EStou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 - ### Você estrar em contato comigo 📪
